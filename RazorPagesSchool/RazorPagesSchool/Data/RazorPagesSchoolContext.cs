@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using RazorPagesMovie.Models;
+using RazorPagesSchool.Models;
 
 namespace RazorPagesSchool.Data
 {
@@ -14,6 +14,6 @@ namespace RazorPagesSchool.Data
         {
         }
 
-        public DbSet<RazorPagesMovie.Models.School> School { get; set; }
+        public DbSet<RazorPagesSchool.Models.School> School { get; set; }
     }
 }

@@ -8783,7 +8783,7 @@
       "outputPath": "/Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/juliebdick/.config/NuGet/NuGet.Config"
+        "/Users/juliebdick/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
