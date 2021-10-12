@@ -36,8 +36,6 @@
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/obj/Debug/netcoreapp3.1/RazorPagesSchool.genruntimeconfig.cache
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/obj/Debug/netcoreapp3.1/RazorPagesSchool.csproj.CopyComplete
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
-/Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
-/Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -54,9 +52,7 @@
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
-/Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
-/Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
@@ -173,3 +169,5 @@
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/obj/Debug/netcoreapp3.1/Razor/Pages/Schools/Details.cshtml.g.cs
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/obj/Debug/netcoreapp3.1/Razor/Pages/Schools/Edit.cshtml.g.cs
 /Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/obj/Debug/netcoreapp3.1/Razor/Pages/Schools/Index.cshtml.g.cs
+/Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/juliebdick/csci340lab7/RazorPagesSchool/RazorPagesSchool/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
