@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{8B5E8669-71C7-4275-B1C3-7A746F078037}|Default">
-  <MonoDevelop.Ide.ItemProperties.RazorPagesSchool FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesSchool/Startup.cs">
+    <Files>
+      <File FileName="RazorPagesSchool/Models/School.cs" Line="13" Column="41" />
+      <File FileName="RazorPagesSchool/Startup.cs" Line="39" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesSchool" expanded="True">
+            <Node name="RazorPagesSchool" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesSchool PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
